@@ -1,2 +1,3 @@
-# teste
- primeiro repositório
+# Olá, Mundo!
+ Primeiro repositório
+ Repositório criado em curso de Git, Github
